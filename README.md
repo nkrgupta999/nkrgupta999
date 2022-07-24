@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar Gupta</h1>
-<h3 align="center">A passionate frontend developer from India I am a student of the Greater Noida Institute of Technology.
-I'm a fresher looking for an internship or a job in web development, software development, or web design
-I have recently made an IoT project for college which I am still going to actively work on to make it better.
-Frontend Developer | Anchor | Social Media lead @DSC-NTT | Club Head @Online Marketing | Codeshef | Haker Rank | Techno jam | Google summer of Code</h3>
+<h3 align="center">A passionate frontend developer from India I am a student of the Greater Noida Institute of Technology {BCA Grad'22 (Computer Application) 👨‍🎓}
+I'm a freshman looking for an internship or a job in web development, software development, or web design I have recently made an IoT project for college which I am still going to actively work on to make it better."Google Cloud Learn to Earn '22 ⭐| Front-end Web Developer | Anchor | Web Development | Apache NetBeans | Eclipse | BCA Grad'22 (Computer Application) 👨‍🎓"</h3>
 <img align="right" alt="coding" width="400" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif">
 <p align="left"> <a href="https://twitter.com/nitinku27723885" target="blank"><img src="https://img.shields.io/twitter/follow/nitinku27723885?logo=twitter&style=for-the-badge" alt="nitinku27723885" /></a> </p>
 
