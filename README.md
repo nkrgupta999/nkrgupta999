@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar Gupta</h1>
-<h3 align="center">A passionate frontend developer from India I am a student of the Reva University, Bengaluru {MCA Grad'24 (Computer Application) 👨‍🎓}
-I'm a freshman looking for an internship or a job in web development, software development, or web design. "Google Cloud Learn to Earn '22 ⭐| Front-end Web Developer | Anchor | Web Development | Apache NetBeans | Eclipse | MCA Grad'24 (Computer Application) 👨‍🎓"</h3>
+<h3 align="center">I am a student of the Reva University Bengaluru {MCA Grad'24 (Computer Application) 👨‍🎓}
+I'm a freshman looking for an internship or a job in web development, software development, web design, and android development.
+"Google Cloud Learn to Earn '22 ⭐| Ninja Entrepreneur at @Coding Ninja | Front-end Web Developer | Anchor | MCA Grad'24 (Computer Application) 👨‍🎓"
+My specialties include quickly learning new skills and programming languages, problem-solving, C, C++, Java, HTML, CSS, jQuery, JavaScript, Bootstrap, and SQL, MongoDB. I've started learning React, Python, and many other programming languages and a framework or principles I can integrate into coding web in my head.🎓"</h3>
 <img align="right" alt="coding" width="400" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif">
 <p align="left"> <a href="https://twitter.com/nitinku27723885" target="blank"><img src="https://img.shields.io/twitter/follow/nitinku27723885?logo=twitter&style=for-the-badge" alt="nitinku27723885" /></a> </p>
 
