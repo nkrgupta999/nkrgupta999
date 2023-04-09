@@ -13,7 +13,7 @@ A highly motivated software developer seeking to get a position in a reputed com
 </h3>
 <img align="right" alt="coding" width="400" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif">
 <p align="left"> <a href="https://www.linkedin.com/in/nkrgupta999/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
-<p align="left"> <a href="mailto:nitinkumargupta.com?subject=Subject%20of%20the%20email&body=Body%20of%20the%20email" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="MailTo" /></a> </p>
+<p align="left"> <a href="mailto:nitinkumargupta999.com?subject=Introduction%20and%20Request%20for%20Connection&body=Hello," target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="MailTo" /></a> </p>
 
 - 🔭 I’m currently working on **Web Project and Java Project**
 
