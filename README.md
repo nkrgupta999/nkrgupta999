@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar Gupta</h1>
-<h3 align="center">Currently, I am a student at Reva University, Bengaluru {MCA Grad [2022-2024] (master’s in computer application)}
+<h3 align="center">Currently, I am a student at Reva University, Bengaluru {MCA Grad. [2022-2024] (Master’s in Computer Application)}
 
-I completed my Under Graduation from Greater Noida {BCA Grad [2019-2022] (bachelor in Computer Application)}
+I completed my Under Graduation from Greater Noida {BCA Grad. [2019-2022] (Bachelor in Computer Application)}
 
 I'm a freshman looking for an internship or a job in web development, software development, or web design.
 
