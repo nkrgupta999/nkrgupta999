@@ -18,6 +18,6 @@ A highly motivated software developer seeking to get a position in a reputed com
 
 - 🌱 I’m currently learning **React, Android Development, Cloud Computing and Many new Frames, Technologies and Languages**
 
-- 👨‍💻 All of my connection links are available at [https://linktr.ee/nk_gupta999](https://linktr.ee/nk_gupta999)
+- 👨‍💻 All of my connection links are available at [https://linktr.ee/nkrgupta999](https://linktr.ee/nk_gupta999)
 
 
