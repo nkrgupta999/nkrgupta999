@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitin Kumar Gupta</h1>
+<h1 align="center" color="white">Hi 👋, I'm Nitin Kumar Gupta</h1>
 <h3 align="center">Currently, I am a student at Reva University, Bengaluru {MCA Grad. [2022-2024] (Master’s in Computer Application)}
 
 I completed my Under Graduation from Greater Noida {BCA Grad. [2019-2022] (Bachelor in Computer Application)}
