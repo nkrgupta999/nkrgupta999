@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar Gupta</h1>
-<h3 align="center">Computer Science & Application Graduate || Ex-Intern at Coding Ninja || Apprenticeship at Google Cloud Learn to Earn || Web Developement || Java || Data Structure and Algorithm|| SQL || MongoDB || UI-UX Design ||</h3>
+<h3 align="center">Computer Science & Application Graduate || Ex-Intern at Coding Ninja || Apprenticeship at Google Cloud Learn to Earn || Web Developement || Java || Data Structure and Algorithm|| SQL || MongoDB ||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkrgupta999&label=Profile%20views&color=0e75b6&style=flat" alt="nkrgupta999" /> </p>
 
