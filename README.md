@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar Gupta</h1>
-<h3 align="center">Computer Science & Applications Graduate || Intern at Infosys || AWS || Web Development || Java Development || DSA || SQL || MongoDB || UI-UX Design ||</h3>
+<h3 align="center">Software Engineer at Caze Labs || Kubernetes || Website & App Development || DSA || SQL || MongoDB || UI/UX Design ||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkrgupta999&label=Profile%20views&color=0e75b6&style=flat" alt="nkrgupta999" /> </p>
 
