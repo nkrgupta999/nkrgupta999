@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar Gupta</h1>
 <h3 align="center">Software Engineer at Caze Labs || Kubernetes || Website & App Development || DSA || SQL || MongoDB || UI/UX Design ||</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nkrgupta999&label=Profile%20views&color=0e75b6&style=flat" alt="nkrgupta999" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nkrgupta999" alt="nkrgupta999" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nkrgupta999&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="nkrgupta999" /></p>
 <img align="right" alt="coding" width="400" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif">
 
 - 🔭 I’m currently working on **Web and Java Project**
 
-- 🌱 I’m currently learning **React and Spring framework**
+- 🌱 I’m currently learning **Libraries and framework**
 
 - 👨‍💻 All of my Connection Links are available at [https://linktr.ee/nkrgupta999](https://linktr.ee/nkrgupta999)
-
-- 💬 Ask me about **Web and Java**
 
 - 📫 How to reach me **nitinkumargupta999@gmail.com**
 
