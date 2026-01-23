@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar Gupta</h1>
-<h3 align="center">Software Engineer at Caze Labs || Kubernetes || Website & App Development || DSA || Database Management || UI/UX Design ||</h3>
+<h3 align="center">Software Engineer at Caze Labs || Website & App Development || DSA || Database Management || UI/UX Design</h3>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nkrgupta999&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="nkrgupta999" /></p>
 <img align="right" alt="coding" width="400" src="https://www.venuexplorer.com.sg/uploads/Working%20in%20progresss.gif">
 
-- 🔭 I’m currently working on **Open-Source License**
+- 🔭 I’m currently working on **Go lang**
 
-- 🌱 I’m currently learning **MongoDB and Bash Scripting**
+- 🌱 I’m currently learning **cloud technologies**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
